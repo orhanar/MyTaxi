@@ -1,0 +1,162 @@
+body {
+    font-family: 'Montserrat';
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+    margin-bottom: 40px;
+    width: 120%;
+
+}
+
+#title {
+    background-color: #FFD854;
+    height: 600px;
+    margin-bottom: 90px;
+
+}
+
+.container {
+    height: 424px;
+    width: 450px;
+    overflow: hidden;
+
+
+}
+
+.container img {
+    transform: rotate(25deg);
+    padding-top: 22px;
+    padding-right: 65px;
+    padding-left: 50px;
+}
+
+
+
+
+#test {
+    margin-left: 5px;
+    font-size: 40px;
+    font-family: 'Ubuntu';
+
+
+
+}
+
+.row {
+    margin-top: 50px;
+
+}
+
+.nav-link {
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: 'Montserrat-light';
+}
+
+.container-fluid {
+    padding: 3% 15%;
+
+}
+
+#a {
+    margin-left: 10px;
+}
+
+.icon-a {
+
+    color: #FFD854;
+    margin-left: 270px;
+
+}
+
+.section#features {
+    margin-right: 0;
+    margin-left: 0;
+
+
+}
+
+
+.row.icons {
+    margin-right: 0;
+    margin-left: 0;
+    width: 80%;
+
+}
+
+
+
+
+.icon-title {
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 245px;
+    width: 100%;
+}
+
+.icon-title-a {
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin-top: 15px;
+    margin-left: 200px;
+    width: 100%;
+}
+
+.icon-a:hover {
+    color: #ff4c68;
+}
+
+.icon-text {
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 120%;
+    text-align: center;
+
+}
+
+.icon-text-a {
+    margin-top: 15px;
+    margin-left: 130px;
+    width: 140%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    margin-top: 90px;
+    text-align: center;
+    background-color: #FFD854;
+    color: white;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.dog-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #FFD854;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
