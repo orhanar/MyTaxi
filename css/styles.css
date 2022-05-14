@@ -129,11 +129,14 @@ h1 {
 }
 
 #testimonials {
-    padding: 7% 15%;
     margin-top: 90px;
     text-align: center;
     background-color: #FFD854;
     color: white;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
 
 h2 {
