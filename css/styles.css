@@ -1,5 +1,7 @@
 body {
     font-family: 'Montserrat';
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 h1 {
@@ -52,6 +54,11 @@ h1 {
 
 }
 
+.div-row-icons {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
 .nav-link {
     font-size: 20px;
     margin-left: 30px;
@@ -70,7 +77,9 @@ h1 {
 .icon-a {
 
     color: #FFD854;
-    margin-left: 270px;
+    padding-left: 200px;
+
+
 
 }
 
@@ -82,14 +91,6 @@ h1 {
 }
 
 
-.row.icons {
-    margin-right: 0;
-    margin-left: 0;
-    width: 80%;
-
-}
-
-
 
 
 .icon-title {
@@ -97,7 +98,7 @@ h1 {
     font-family: 'Montserrat';
     font-size: 20px;
     margin-top: 15px;
-    margin-left: 245px;
+    margin-left: 180px;
     width: 100%;
 }
 
@@ -106,7 +107,7 @@ h1 {
     font-family: 'Montserrat';
     font-size: 20px;
     margin-top: 15px;
-    margin-left: 200px;
+    margin-left: 130px;
     width: 100%;
 }
 
@@ -116,15 +117,16 @@ h1 {
 
 .icon-text {
     margin-top: 15px;
-    margin-left: 180px;
+    margin-left: 115px;
     width: 120%;
 
 
 }
 
+
 .icon-text-a {
     margin-top: 15px;
-    margin-left: 130px;
+    margin-left: 120px;
     width: 140%;
 }
 
@@ -137,6 +139,18 @@ h1 {
 
 .carousel-item {
     padding: 7% 15%;
+}
+
+.card {
+    margin: 20px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
 }
 
 h2 {
