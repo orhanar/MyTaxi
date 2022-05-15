@@ -123,6 +123,10 @@ h1 {
 
 }
 
+.card-button {
+    width: 100%;
+}
+
 
 .icon-text-a {
     margin-top: 15px;
@@ -142,7 +146,7 @@ h1 {
 }
 
 .card {
-    margin: 20px;
+    margin: 15px;
 }
 
 .card-header {
@@ -176,4 +180,12 @@ h2 {
 .press-img {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
