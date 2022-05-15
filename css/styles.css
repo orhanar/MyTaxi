@@ -18,16 +18,13 @@ h1 {
 #title {
     background-color: #FFD854;
     height: 600px;
-    margin-bottom: 90px;
+    margin-bottom: 0px;
 
 }
 
 .container {
     height: 424px;
     width: 450px;
-    overflow: hidden;
-
-
 }
 
 .container img {
@@ -54,9 +51,16 @@ h1 {
 
 }
 
-.div-row-icons {
+.icons {
     margin-left: 12px;
     margin-right: 12px;
+    margin-top: 0px;
+    padding-left: 7px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 
 .nav-link {
@@ -83,10 +87,9 @@ h1 {
 
 }
 
-.section#features {
+#features {
     margin-right: 0;
     margin-left: 0;
-
 
 }
 
@@ -123,10 +126,6 @@ h1 {
 
 }
 
-.card-button {
-    width: 100%;
-}
-
 
 .icon-text-a {
     margin-top: 15px;
@@ -139,6 +138,7 @@ h1 {
     text-align: center;
     background-color: #FFD854;
     color: white;
+    margin-top: 0px;
 }
 
 .carousel-item {
@@ -146,7 +146,7 @@ h1 {
 }
 
 .card {
-    margin: 15px;
+    margin: 20px;
 }
 
 .card-header {
@@ -180,12 +180,4 @@ h2 {
 .press-img {
     width: 15%;
     margin: 20px 20px 50px;
-}
-
-#pricing {
-    padding: 100px;
-}
-
-.pricing-column {
-    padding: 3% 2%;
 }
