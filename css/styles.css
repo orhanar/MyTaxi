@@ -208,9 +208,19 @@ h2 {
 
 }
 
-
 #cta {
     background-color: #FFD854;
     height: 500px;
 
+}
+
+.cta-text {
+    text-align: center;
+    width: 80%;
+    font-size: 60px;
+    padding-top: 6%;
+    padding-left: 20%;
+    color: white;
+    font-family: "Montserrat";
+    font-weight: 600;
 }
