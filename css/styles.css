@@ -224,3 +224,15 @@ h2 {
     font-family: "Montserrat";
     font-weight: 600;
 }
+
+#button1 {
+
+    margin-top: 60px;
+    margin-left: 520px;
+}
+
+#button2 {
+
+    margin-top: 60px;
+    margin-left: 20px;
+}
