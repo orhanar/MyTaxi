@@ -30,8 +30,9 @@ h1 {
 .logo-image {
     width: 30%;
     transform: rotate(25deg);
+    margin-left: 60px;
     padding-top: 22px;
-    padding-right: 65px;
+    padding-right: 50px;
     padding-left: 50px;
     position: absolute;
 
@@ -190,6 +191,7 @@ h2 {
 
         position: static;
         margin-left: -85px;
+        margin-top: 25px;
         width: 90%;
         transform: rotate(0);
     }
@@ -200,7 +202,7 @@ h2 {
 
 
     #title {
-        height: 950px;
+        height: 750px;
         text-align: center;
     }
 
@@ -290,6 +292,11 @@ h2 {
         margin-left: -430px;
     }
 
+    .pricing-text {
+        padding-top: 15%;
+        text-align: center;
+    }
+
 
 
 }
@@ -330,4 +337,9 @@ h2 {
 
 .fa-envelope:hover {
     color: #BB001B;
+}
+
+.pricing-text {
+    padding-top: 5%;
+    text-align: center;
 }
