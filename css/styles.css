@@ -285,6 +285,13 @@ h2 {
 
     }
 
+    .footer-logos {
+        margin-top: -100px;
+        margin-left: -430px;
+    }
+
+
+
 }
 
 #footer {
@@ -294,4 +301,33 @@ h2 {
 .footer-text {
     padding-top: 12%;
     text-align: center;
+}
+
+.footer-logos {
+    position: absolute;
+    padding-top: 120px;
+    padding-left: 605px;
+
+}
+
+.logo {
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.fa-twitter:hover {
+    color: #00acee;
+}
+
+.fa-facebook-f:hover {
+    color: #3b5998;
+}
+
+.fa-instagram:hover {
+    color: #8a3ab9;
+}
+
+.fa-envelope:hover {
+    color: #BB001B;
 }
