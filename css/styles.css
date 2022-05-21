@@ -279,8 +279,19 @@ h2 {
 
     }
 
+    .footer-text {
+        margin-top: 175px;
+        text-align: center;
+
+    }
+
 }
 
 #footer {
     height: 300px;
+}
+
+.footer-text {
+    padding-top: 12%;
+    text-align: center;
 }
