@@ -1,70 +1,36 @@
+/* Generic */
+
 body {
     font-family: 'Montserrat';
-    max-width: 100%;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
     overflow-x: hidden;
 }
 
-h1 {
-    font-family: 'Montserrat';
-    font-weight: 900;
-    font-size: 3.5rem;
-    line-height: 1.5;
-    color: white;
-    margin-bottom: 40px;
-    width: 120%;
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.feature-title,
+.feature-title-long,
+.cta-text {
+    font-family: "Montserrat";
 }
 
-#title {
-    background-color: #FFD854;
-    height: 600px;
-    margin-bottom: 0px;
-
+p {
+    margin-top: 20px;
 }
 
-.container {
-    height: 424px;
-    width: 450px;
-}
+/* Title */
 
-.logo-image {
-    width: 30%;
-    transform: rotate(25deg);
-    margin-left: 60px;
-    padding-top: 22px;
-    padding-right: 50px;
-    padding-left: 50px;
-    position: absolute;
-
-}
-
-
-
-
-#test {
-    margin-left: 5px;
+#Main-Title {
     font-size: 40px;
     font-family: 'Ubuntu';
-
-
-
-}
-
-.row {
-    margin-top: 50px;
-
-}
-
-.icons {
-    margin-left: 12px;
-    margin-right: 12px;
-    margin-top: 0px;
-    padding-left: 7px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: white;
-    position: relative;
-
 }
 
 .nav-link {
@@ -75,71 +41,79 @@ h1 {
 
 .container-fluid {
     padding: 3% 15%;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+#title {
+    background-color: #FFD854;
+    height: 600px;
+}
+
+.big-heading {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+    margin-bottom: 40px;
+    text-align: left;
+    width: 120%;
+}
+
+@media (min-width: 1028px) {
+
+
+    .title-apple-button {
+        margin-left: -120px;
+    }
+
+    .title-android-button {
+        margin-left: 10px;
+    }
 
 }
 
-#a {
-    margin-left: 10px;
+.logo-image {
+    width: 30%;
+    transform: rotate(25deg);
+    margin-left: -140px;
+    padding-top: 22px;
+    padding-right: 50px;
+    padding-left: 50px;
+    position: absolute;
 }
 
-.icon-a {
-
-    color: #FFD854;
-    padding-left: 200px;
-
-
-
-}
+/* Features */
 
 #features {
     margin-right: 0;
     margin-left: 0;
-
+    background-color: white;
 }
 
-
-
-
-.icon-title {
-    font-weight: 700;
-    font-family: 'Montserrat';
-    font-size: 20px;
-    margin-top: 15px;
-    margin-left: 180px;
-    width: 100%;
+.icon-logo {
+    color: #FFD854;
 }
 
-.icon-title-a {
-    font-weight: 700;
-    font-family: 'Montserrat';
-    font-size: 20px;
-    margin-top: 15px;
-    margin-left: 130px;
-    width: 100%;
-}
-
-.icon-a:hover {
+.icon-logo:hover {
     color: #ff4c68;
 }
 
-.icon-text {
+.feature-title,
+.feature-title-long {
+    font-weight: 700;
+    font-size: 20px;
     margin-top: 15px;
-    margin-left: 115px;
-    width: 120%;
-
-
+    width: 100%;
 }
 
-
-.icon-text-a {
-    margin-top: 15px;
-    margin-left: 120px;
-    width: 140%;
-}
+/* Testimonials */
 
 #testimonials {
     margin-top: 90px;
-    text-align: center;
     background-color: #FFD854;
     color: white;
     margin-top: 0px;
@@ -149,36 +123,17 @@ h1 {
     padding: 7% 15%;
 }
 
-.card {
-    margin: 20px;
-}
-
-.card-header {
-    text-align: center;
-}
-
-.card-body {
-    text-align: center;
-}
-
-h2 {
-    font-family: "Montserrat";
+.testimonial-text {
     font-size: 3rem;
     font-weight: 900;
     line-height: 1.5;
 }
 
-.dog-img {
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
-}
+/* Press */
 
 #press {
     background-color: #FFD854;
-    text-align: center;
     padding-bottom: 3%;
-
 }
 
 .press-img {
@@ -186,141 +141,77 @@ h2 {
     margin: 20px 20px 50px;
 }
 
-@media (max-width: 1028px) {
-    .logo-image {
-
-        position: static;
-        margin-left: -85px;
-        margin-top: 25px;
-        width: 90%;
-        transform: rotate(0);
-    }
-
-    #features {
-        margin-top: 0px;
-    }
-
-
-    #title {
-        height: 750px;
-        text-align: center;
-    }
-
-
-
+.carousel-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
 }
+
+/* Pricing */
+
+.section-heading {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.card {
+    margin: 20px;
+}
+
+.carousel-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.pricing-title {
+    padding-top: 25px;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.price-text {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+/* Call to action */
 
 #cta {
     background-color: #FFD854;
     height: 500px;
-
 }
 
 .cta-text {
-    text-align: center;
     width: 80%;
     font-size: 60px;
     padding-top: 6%;
     padding-left: 20%;
     color: white;
-    font-family: "Montserrat";
     font-weight: 600;
 }
 
-#button1 {
-
+#iphone-button,
+#android-button {
     margin-top: 60px;
-    margin-left: 510px;
 }
 
-#button2 {
-
-    margin-top: 60px;
-    margin-left: 15px;
+#android-button {
+    margin-left: 10px;
 }
 
-@media (max-width: 1028px) {
-    #button1 {
-        margin-top: 60px;
-        margin-left: 90px;
-
-    }
-
-    #button2 {
-        margin-top: 60px;
-        margin-left: 5px;
-    }
-
-    #cta {
-        height: 600px;
-    }
-
-    .cta-text {
-
-        padding-left: 22%;
-    }
-
-    .icons {
-        margin-left: -2px;
-    }
-
-    .icon-title {
-        margin-left: 180px;
-    }
-
-    .icon-title-a {
-        margin-left: 130px;
-    }
-
-    .icon-text {
-        margin-left: 112px;
-    }
-
-    h1 {
-        margin-left: -25px;
-
-    }
-
-    .footer-text {
-        margin-top: 175px;
-        text-align: center;
-
-    }
-
-    .footer-logos {
-        margin-top: -100px;
-        margin-left: -430px;
-    }
-
-    .pricing-text {
-        padding-top: 15%;
-        text-align: center;
-    }
-
-
-
-}
+/* Footer */
 
 #footer {
     height: 300px;
 }
 
-.footer-text {
-    padding-top: 12%;
-    text-align: center;
-}
-
 .footer-logos {
-    position: absolute;
+    align-items: center;
     padding-top: 120px;
-    padding-left: 605px;
-
-}
-
-.logo {
-    padding-left: 15px;
-    text-decoration: none;
-    color: black;
 }
 
 .fa-twitter:hover {
@@ -339,7 +230,8 @@ h2 {
     color: #BB001B;
 }
 
-.pricing-text {
-    padding-top: 5%;
-    text-align: center;
+.logo {
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
 }
