@@ -171,7 +171,7 @@ Orhan Arifoglu - orhanarifoglu@outlook.com
 [issues-shield]: https://img.shields.io/github/issues/orhanar/MyTaxi.svg?style=for-the-badge
 [issues-url]: https://github.com/orhanar/MyTaxi/issues
 [license-shield]: https://img.shields.io/github/license/orhanar/MyTaxi.svg?style=for-the-badge
-[license-url]: https://github.com/orhanar/MyTaxi/blob/master/LICENSE.txt
+[license-url]: https://github.com/orhanar/MyTaxi/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/orhanarifoglu/
 [product-screenshot]: https://github.com/orhanar/MyTaxi/blob/master/images/MyTaxiDemo.gif
