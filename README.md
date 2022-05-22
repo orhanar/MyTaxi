@@ -16,9 +16,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![CodeFactor](https://www.codefactor.io/repository/github/orhanar/mytaxi/badge)](https://www.codefactor.io/repository/github/orhanar/mytaxi)
-[![DeepScan grade](https://deepscan.io/api/teams/5718/projects/21136/branches/598118/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5718&pid=21136&bid=598118)
-
-
 
 <!-- PROJECT LOGO -->
 <br />
