@@ -28,7 +28,7 @@
 <h3 align="center">MyTaxi</h3>
 
   <p align="center">
-    project_description
+    MyTaxi is project that solely uses frontend tools like CSS HTML and Bootstrap. It serves as isolated project to solely practice these skills well as being reference for such tools for the author in the future projects.
     <br />
     <a href="https://github.com/orhanar/MyTaxi/docs"><strong>Explore the docs »</strong></a>
     <br />
