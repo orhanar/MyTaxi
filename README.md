@@ -1,4 +1,3 @@
-
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
@@ -9,14 +8,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -40,8 +38,6 @@
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -69,28 +65,24 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/orhanar/MyTaxi/blob/master/images/MyTaxiDemo.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr)
-* [Bootstrap](https://getbootstrap.com)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=tr)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=tr)
+- [Bootstrap](https://getbootstrap.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Installation
@@ -99,17 +91,18 @@
    ```sh
    git clone https://github.com/orhanar/MyTaxi.git
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
+   <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Please refer to the [Documentation](https://github.com/orhanar/MyTaxi/tree/master/docs)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Adding Payment Page
@@ -118,8 +111,8 @@ See the [open issues](https://github.com/orhanar/MyTaxi/issues) for a full list 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -135,8 +128,8 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -151,17 +144,17 @@ Orhan Arifoglu - orhanarifoglu@outlook.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* None
+- None
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/orhanar/MyTaxi.svg?style=for-the-badge
 [contributors-url]: https://github.com/orhanar/MyTaxi/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/orhanar/MyTaxi.svg?style=for-the-badge
@@ -175,4 +168,3 @@ Orhan Arifoglu - orhanarifoglu@outlook.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/orhanarifoglu/
 [product-screenshot]: https://github.com/orhanar/MyTaxi/blob/master/images/MyTaxiDemo.gif
-
