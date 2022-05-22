@@ -35,9 +35,9 @@
     <br />
     <a href="https://orhanar.github.io/MyTaxi/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/orhanar/MyTaxi/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/orhanar/MyTaxi/issues">Request Feature</a>
   </p>
 </div>
 
