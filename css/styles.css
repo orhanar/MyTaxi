@@ -45,8 +45,15 @@ p {
     margin-top: 50px;
 }
 
-#title {
+.coloured-section {
     background-color: #FFD854;
+}
+
+.noncoloured-section {
+    background-color: white;
+}
+
+#title {
     height: 600px;
 }
 
@@ -86,12 +93,6 @@ p {
 
 /* Features */
 
-#features {
-    margin-right: 0;
-    margin-left: 0;
-    background-color: white;
-}
-
 .icon-logo {
     color: #FFD854;
 }
@@ -112,7 +113,6 @@ p {
 
 #testimonials {
     margin-top: 90px;
-    background-color: #FFD854;
     color: white;
 }
 
@@ -129,7 +129,6 @@ p {
 /* Press */
 
 #press {
-    background-color: #FFD854;
     padding-bottom: 3%;
 }
 
@@ -172,7 +171,6 @@ p {
 /* Call to action */
 
 #cta {
-    background-color: #FFD854;
     height: 500px;
 }
 
