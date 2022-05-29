@@ -15,11 +15,12 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![CodeFactor](https://www.codefactor.io/repository/github/orhanar/mytaxi/badge)](https://www.codefactor.io/repository/github/orhanar/mytaxi)
+<a href="https://www.codefactor.io/repository/github/orhanar/mytaxi"><img src="https://www.codefactor.io/repository/github/orhanar/mytaxi/badge" alt="CodeFactor" /></a>
+
 
 
 <p align="center">
-    <img src="https://pagespeed-insights.herokuapp.com/?url=https://orhanar.github.io/MyTaxi/">
+    <img src="/images/performance.svg">
 </p>
 
 <!-- PROJECT LOGO -->
