@@ -17,6 +17,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![CodeFactor](https://www.codefactor.io/repository/github/orhanar/mytaxi/badge)](https://www.codefactor.io/repository/github/orhanar/mytaxi)
 
+
+<p align="center">
+    <img src="https://pagespeed-insights.herokuapp.com/?url=https://orhanar.github.io/MyTaxi/">
+</p>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
